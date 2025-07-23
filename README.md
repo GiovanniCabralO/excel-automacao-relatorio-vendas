@@ -1,5 +1,3 @@
-README - Excel Automação de Relatório de Vendas
-
 📊 Excel Automação de Relatório de Vendas
 
 Projeto de automação de relatórios de vendas utilizando **Python** e **openpyxl** para manipulação de planilhas Excel.
@@ -65,5 +63,5 @@ O script irá:
 
 👨‍💻 Autor
 
-Feito por Giovanni com 💙
+Feito por Giovanni Cabral
 
